@@ -3,8 +3,8 @@
 Bringing to you Next Generation Data Processing Pack. With 3 standalone Infrastructures. Separation between your Business Context/Operations, RESTFul Client Provider with Testing and the Presentation. Our goal in Initxlab is to stick to full Compliance with Industry Technology. For the safety of your Business and Customer Data.
 
 # Main Technologies
-- Symfony 5.3+, PHP 8 ready with now native and powerfull @Annotations
-- API Platform 2.6
+- Symfony 5.3+, PHP 8 ready with now native and powerfull @Annotations syntax
+- API Platform 2.6. No presentation needed here
 - Doctrine ORM, Unit of Work, NoSQL
 - Internationalization and localization
 - JsonLD and Hydra modern Web APIs specs
