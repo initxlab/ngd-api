@@ -22,3 +22,4 @@ Bringing to you Next Generation Data Processing Pack. With 3 standalone Infrastr
 - Resource Access Control
 - Ruthless Data validation with "Never Trust User Input" approach
 - Testing
+- Client Side Uuid generator/validator
