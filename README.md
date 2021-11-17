@@ -7,7 +7,7 @@ Bringing to you Next Generation Data Processing Pack. With 3 standalone Infrastr
 - API Platform 2.6
 - Doctrine ORM, Unit of Work, NoSQL
 - Internationalization and localization
-- JsonLD and Hydra modern Web APIs standards
+- JsonLD and Hydra modern Web APIs specs
 
 # Packages
 - initxlab/nGD-server - Your Business Context and Operations, on the top of API Platform 2.6. Hydra and jsonLD ready.
