@@ -7,8 +7,8 @@ Bringing to you Next Generation Data Processing Pack.
 - Localization (I18n)
 
 # Packages
-- initxlab/nGD-server - Your Business Context and Operations, on the top of API Platform 2.6
-- initxlab/nGD-client - The PHP RESTFul Provider, no GUI attached. Entrypoint & Testing Zone.
+- initxlab/nGD-server - Your Business Context and Operations, on the top of API Platform 2.6. Hydra and jsonLD ready.
+- initxlab/nGD-client - The PHP RESTFul Provider, no GUI attached. Entrypoint & Testing Zone. Access Controller.
 - initxlab/nGD-frontend - Painting the wall Zone. Any Javascript Framework of your choice will fit here (Webpack Encore, React, VueJs, NuxtJS etc..)
 
 # Compliance
