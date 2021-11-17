@@ -4,7 +4,7 @@ Bringing to you Next Generation Data Processing Pack. With 3 standalone Infrastr
 
 # Main Technologies
 - Symfony 5.3+, PHP 8 ready with now native and powerfull @Annotations syntax
-- API Platform 2.6. No presentation needed here
+- API Platform 2.6.
 - Doctrine ORM, Unit of Work, NoSQL
 - Internationalization and localization
 - JsonLD and Hydra modern Web APIs specs
