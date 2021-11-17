@@ -1,6 +1,6 @@
 
 # initxlab/nGD-pack
-Bringing to you Next Generation Data Processing Pack. With 3 standalone Infrastructures. Separation between your Business Context/Operations, RESTFul Client Provider with Testing and the Presentation. As Experts, our goal in Initxlab is to stick to full Compliance with Industry Technology. For the safety of your Business and Customer Data. Work in progress
+Bringing to you Next Generation Data Processing Pack. With 3 standalone Infrastructures. Separation between your Business Context/Operations, RESTFul Client Provider with Testing and the Presentation. Our goal in Initxlab is to stick at the best possible to full Compliance with Industry Technology Standards. For the safety of your Business and Customer Data.
 
 # Main Technologies
 - Symfony 5.3+ Components, PHP 8 ready with now native and powerfull @Annotations syntax
