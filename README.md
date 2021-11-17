@@ -14,9 +14,6 @@ Bringing to you a Next Generation Data Processing Pack.
 # Compliance
 - Annotations for Routing & API Resources Operations
 - Pattern Design Data Type programming
-- Industry Standards
 - Internationalized Resource Identifier (IRI)
-- OpenAPI/Swagger & Hypermedia-Driven (Hydra) Specs
-- Strict Data Validation Pattern ("Never trust User inputs" approach)
-- Separation between your Business Context, the Ressource Mapping and the Presentation (Mobile devices, Web, native HTTP request)
-- Security
+- OpenAPI/Swagger, jsonLD & Hypermedia-Driven (Hydra) Specs
+- Separation between your Business Context/Operations, RESTFul Client Provider and the Presentation (Mobile devices, Web, native HTTP request)
