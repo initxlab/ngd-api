@@ -1,5 +1,5 @@
 
-# nGD-pack
+# initxlab/nGD-pack
 Bringing to you Next Generation Data Processing Pack. With 3 standalone Infrastructures. Separation between your Business Context/Operations, RESTFul Client Provider with Testing and the Presentation. Our goal in Initxlab is to stick to full Compliance with Industry Technology. For the safety of your Business and Customer Data.
 
 # Main Technologies
