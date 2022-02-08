@@ -5,7 +5,7 @@ Bringing to you Next Generation Data Processing Pack. With 3 standalone Infrastr
 # Environment
 - PHP >= 8.0.2
 - Symfony 6.0.*
-- API Platform 2.6.
+- API Platform 2.6.*
 - Doctrine ORM, NoSQL ready
 
 # Packages
