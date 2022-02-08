@@ -12,7 +12,7 @@ Bringing to you Next Generation Data Processing Pack. With 3 standalone Infrastr
 - initxlab/ngd-api-server - Your Business Context and Operations standalone API server.
 - initxlab/ngd-api-client - Frontend requests entrypoint. Testing zone. No GUI attached. 
 
-Your Frontend App can be of any Javascript Framework (Webpack Encore, React, VueJs, NuxtJS etc..) or any Mobile technology.
+Your Frontend App can be of any Javascript Framework (Webpack Encore, React, VueJs, NuxtJS etc..) or Mobile technology.
 
 ## Compliance (Work in progress)
 - PHP8 native #Annotations for API Resources & Operations descriptions
