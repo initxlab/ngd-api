@@ -1,6 +1,6 @@
 
 ## initxlab/ngd-api
-Bringing to you Next Generation Data Processing API Pack, with standalone packages for optimized integration. Our goal in Initxlab is to stick at the best possible to Compliance with Industry Technology Standards. For the safety of your Business and Customer Data.
+Bringing to you Next Generation Data Processing API Pack, with standalone packages for optimized integration. Our goal in Initxlab is to stick to Compliance with Industry Standards and best recommended practices to serve your Business.
 
 ## Environment
 - PHP >= 8.0.2
@@ -22,6 +22,6 @@ Your Frontend App can be of any Javascript Framework (Webpack Encore, React, Vue
 - Testing
 - Client Side Uuid generator/validator
 
-We will be happy to present you our solution.
+We will be more than happy to present you a demo of our solution.
 
 Team Inixtlab
