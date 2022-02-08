@@ -1,6 +1,6 @@
 
 ## initxlab/ngd-api
-Bringing to you Next Generation Data Processing API Pack, with standalone packages for optimized integration. Our goal in Initxlab is to stick to Compliance with Industry Standards and best recommended practices to serve your Business.
+Bringing to you Next Generation Data Processing API Pack, with standalone packages for optimized integration. Our commitment in Initxlab is to stick to Compliance with Industry Standards and best recommended practices to serve your Business.
 
 ## Environment
 - PHP >= 8.0.2
