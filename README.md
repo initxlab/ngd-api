@@ -1,5 +1,5 @@
 
-# initxlab/nGD-pack
+# initxlab/ngd-api
 Bringing to you Next Generation Data Processing Pack. With 3 standalone Infrastructures. Separation between your Business Context/Operations, RESTFul Client Provider with Testing and the Presentation. Our goal in Initxlab is to stick at the best possible to full Compliance with Industry Technology Standards. For the safety of your Business and Customer Data.
 
 # Environment
@@ -9,15 +9,16 @@ Bringing to you Next Generation Data Processing Pack. With 3 standalone Infrastr
 - Doctrine ORM, NoSQL ready
 
 # Packages
-- initxlab/nGD-server - Your Business Context and Operations, on the top of API Platform 2.6. Hydra and jsonLD ready. Powered with @Annotations Syntax. No forms attached to Entities.
-- initxlab/nGD-client - The PHP RESTFul Provider, no GUI attached. Entrypoint & Testing Zone. Access Controller.
-- initxlab/nGD-frontend - Painting the wall Zone. Any Javascript Framework of your choice will fit here (Webpack Encore, React, VueJs, NuxtJS etc..)
+- initxlab/ngd-api-server - Your Business Context and Operations standalone API server.
+- initxlab/ngd-api-client - Frontend requests entrypoint. Testing zone. No GUI attached. 
+
+Your Frontend App can be of any Javascript Framework (Webpack Encore, React, VueJs, NuxtJS etc..) or any Mobile technology.
 
 # Compliance (Work in progress)
-- Now native php #Annotations for API Resources & Operations descriptions
-- Pattern Design Data Typing Programming
-- Internationalized Resource Identifier (IRI)
-- OpenAPI/Swagger, jsonLD & Hypermedia-Driven (Hydra), Schema.org Specs
+- PHP8 native #Annotations for API Resources & Operations descriptions
+- Strict Pattern Design Data Typing Programming
+- Internationalized Resource Identifier (IRI) integration via specs
+- OpenAPI/Swagger, jsonLD & Hypermedia-Driven (Hydra), Schema.org specs
 - Testing
 - Client Side Uuid generator/validator
 
