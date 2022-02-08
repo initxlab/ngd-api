@@ -14,7 +14,7 @@ Bringing to you Next Generation Data Processing API Pack, with standalone packag
 
 Your Frontend App can be of any Javascript Framework (Webpack Encore, React, VueJs, NuxtJS etc..) or Mobile technology.
 
-## Compliance (Work in progress)
+## Compliance (work in progress)
 - PHP8 native #Annotations for API Resources & Operations descriptions
 - Strict Pattern Design Data Typing Programming
 - Internationalized Resource Identifier (IRI) integration via specs
@@ -24,4 +24,4 @@ Your Frontend App can be of any Javascript Framework (Webpack Encore, React, Vue
 
 We will be more than happy to present you a demo of our solution.
 
-Team Inixtlab
+Inixtlab Admin
