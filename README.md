@@ -17,6 +17,7 @@ Your Frontend App can be of any Javascript Framework (Webpack Encore, React, Vue
 ## Compliance (work in progress)
 - PHP8 native #Annotations for API Resources & Operations descriptions
 - Strict Pattern Design Data Typing Programming
+- Extended Data Serialization and Filtering (range, keywords, partial or exact matching)
 - Internationalized Resource Identifier (IRI) integration via specs
 - OpenAPI/Swagger, jsonLD & Hypermedia-Driven (Hydra), Schema.org specs
 - Testing
