@@ -9,7 +9,7 @@ Bringing to you Next Generation Data Processing API Pack, with standalone packag
 - Doctrine ORM, NoSQL ready
 
 ## Packages
-- [initxlab/ngd-api-server](https://github.com/initxlab/ngd-api-server/blob/master/README.md) - Your Business Context and Operations standalone API server.
+- [initxlab/ngd-api-server](https://github.com/initxlab/ngd-api-server/blob/server-v.1.0-dev-0/README.md) - Your Business Context and Operations standalone API server.
 - initxlab/ngd-api-client - Frontend requests entrypoint. Testing zone. No GUI attached. 
 
 Your Frontend App can be of any Javascript Framework (Webpack Encore, React, VueJs, NuxtJS etc..) or Mobile technology.
